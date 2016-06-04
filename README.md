@@ -53,9 +53,9 @@ Main advantages of this library compared with similar solutions are: light weigh
 
 ``` xml
 <dependency>
-   <groupId>eu.infomas</groupId>
+   <groupId>com.github.desertkun.infomas-asl</groupId>
    <artifactId>annotation-detector</artifactId>
-   <version>3.0.4</version>
+   <version>3.1-dev</version>
 </dependency>
 ```
 
